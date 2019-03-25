@@ -179,6 +179,12 @@ $loged_user=$_SESSION['users'];
 <?php echo navigation_index_3($sel_subject, $sel_page); ?>
 	
 </div>
+
+<div id="category">
+<h3>About Us</h3>
+<p>Couch surfing is hospitability and social networking service accessible via a website and mobile app. Members can use the service to arrange the homestays, they will arrange the stays like lodging and hospitability but they will not provide full room like lodge instead they will share the rooms on per bed bases and sometimes with the food, sometimes may not, it will be depends on the owner of the room if they provide food they will add ,if they are not providing food they will mention will provide only bed, we can’t arrange the food. 
+</p>
+</div>
 	
 	</div>
 <div id="freead">
